@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss, bjschnoor, schnoor, ben
 employee,bma43,Ma,Boyang
